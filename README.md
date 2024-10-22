@@ -6,9 +6,9 @@ O método de ***Monte Carlo*** é uma técnica estatística usada para estimar o
 Ele envolve a simulação de várias trajetórias possíveis para essas variáveis com base em distribuições de probabilidade.\ 
 Esse método é amplamente utilizado para simular trajetórias futuras do preço de um ativo, baseado em um processo estocástico com parâmetros previamente estimados.
 
-# Monte Carlo com movimento Browniano - (Processo de weiner)
+# Monte Carlo com Movimento Browniano - (Processo de Wiener)
 
-Aplicação do processo de **weiner**(Movimento Browniano) para simulação de trajetórias de preços. \
+Aplicação do processo de **Wiener**(Movimento Browniano) para simulação de trajetórias de preços. \
 ![Monte_Carlo_Previsao_Precos.ipynb]
 
 
