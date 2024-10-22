@@ -19,7 +19,7 @@ Este exemplo aplica o **Processo de Wiener** (Movimento Browniano) para a simula
 O movimento browniano é amplamente utilizado em finanças para modelar a evolução do preço de ativos ao longo do tempo, levando em conta volatilidade e retornos esperados.
 
 ![Previsão Preços - Movimento Browniano](Monte_Carlo_Previsao_Precos.ipynb)
-![Image](Charts/Monte_Carlo_Stock_Predictions.png)
+
 
 ## Tópicos Futuros
 Temas que pretendo adicionar.
