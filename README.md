@@ -1,14 +1,29 @@
-# Monte Carlo aplicado a Finanças
-Esse repositório tem como objetivo demonstrar aplicações do método de **Monte Carlo** dentro do ramo das finanças.<br>
-Os arquivos aqui são para adquirir pratica do meus estudos sobre o assunto. <br>
+# Monte Carlo Aplicado a Finanças
 
-O método de ***Monte Carlo*** é uma técnica estatística usada para estimar o comportamento futuro de variáveis incertas, como preços de ativos financeiros.<br>
-Ele envolve a simulação de várias trajetórias possíveis para essas variáveis com base em distribuições de probabilidade.<br>
-Esse método é amplamente utilizado para simular trajetórias futuras do preço de um ativo, baseado em um processo estocástico com parâmetros previamente estimados.<br>
+Este repositório tem como objetivo demonstrar aplicações do método de **Monte Carlo** no ramo das finanças.  
+Os arquivos aqui disponibilizados são parte da prática adquirida em meus estudos sobre o assunto.
 
-# Monte Carlo com Movimento Browniano - (Processo de Wiener)
+## O que é o Método de Monte Carlo?
 
-Aplicação do processo de **Wiener**(Movimento Browniano) para simulação de trajetórias de preços.<br>
-![Monte_Carlo_Previsao_Precos.ipynb]
+O método de **Monte Carlo** é uma técnica estatística utilizada para estimar o comportamento futuro de variáveis incertas, como preços de ativos financeiros.  
+Ele envolve a simulação de várias trajetórias possíveis para essas variáveis, com base em distribuições de probabilidade, sendo amplamente utilizado para simular trajetórias futuras do preço de ativos financeiros com base em processos estocásticos e parâmetros previamente estimados.
+## Sumário
+1. [O que é o Método de Monte Carlo?](#o-que-é-o-método-de-monte-carlo)
+2. [Monte Carlo com Movimento Browniano (Processo de Wiener)](#monte-carlo-com-movimento-browniano-processo-de-wiener)
+3. [Tópicos Futuros](#tópicos-futuros)
+
+# Monte Carlo com Movimento Browniano (Processo de Wiener)
+
+Este exemplo aplica o **Processo de Wiener** (Movimento Browniano) para a simulação de trajetórias de preços de ativos.  
+O movimento browniano é amplamente utilizado em finanças para modelar a evolução do preço de ativos ao longo do tempo, levando em conta volatilidade e retornos esperados.
+
+![Previsão Preços - Movimento Browniano](Monte_Carlo_Previsao_Precos.ipynb)
+![Image](Charts/Monte_Carlo_Stock_Predictions.png)
+
+## Tópicos Futuros
+Temas que pretendo adicionar.
+
+- Monte Carlo com Markov Chains (MCMC)
+
 
 
